@@ -1,0 +1,39 @@
+//update
+
+change upcoming events to projects under construction #
+
+set active nav-bar when select the page #
+
+can not download project files if not logged #
+
+projects page filter #
+Search Filter #
+
+secure access to non-complete projects using url #
+
+
+featured projects:
+1- featured by rating #
+2- featured by grades #
+
+Student id number must be 9 number #
+mobile number must be 09XXXXXXXX #
+
+correct counter in about page #
+correct counter in dashboard #
+
+add reject messages to professors #
+
+password rules: Minimum eight characters, at least one uppercase letter, one lowercase letter, one number and one special character #
+
+Customize project icons #
+
+update Footer #
+
+Students can uploads old projects #
+make cover optional #
+make github and host optional #
+download project file work #
+
+
+
